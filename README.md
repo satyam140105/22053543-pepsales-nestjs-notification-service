@@ -46,7 +46,7 @@ A production-ready notification microservice that processes emails, SMS, and in-
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/notification-service.git
+   git clone https://github.com/satyam140105/22053543-pepsales-nestjs-notification-service
    cd notification-service
    ```
 
@@ -109,7 +109,7 @@ Create a new notification.
 ## 📸 Screenshot
 
 ### Post Request
-![Dashboard Screenshot](/docs/post.png)
+![Dashboard Screenshot](./screenshots/post.png)
 
 
 
@@ -136,7 +136,7 @@ Get user's notification history.
 ## 📸 Screenshots
 
 ### Get request
-![Screenshot](C:\Users\satya\Downloads\pepsales\notification-service\docs\get.png)
+![Screenshot](./screenshots/get.png)
 
 
 
@@ -153,7 +153,7 @@ sequenceDiagram
 ## 📸 Screenshots
 
 ### Queue
-![Dashboard Screenshot](/docs/queue.png)
+![Dashboard Screenshot](./screenshots/queue.png)
 
 
 
